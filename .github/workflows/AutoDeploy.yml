@@ -30,7 +30,7 @@ jobs:
       with:
         cmd: install 
 
-    - name: Build Shoes-Store-App
+    - name: Build WAAPI RED_QUEEN
       run: yarn build
       
     - name: Install Surge
